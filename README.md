@@ -117,13 +117,20 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_pub_key
 CLERK_SECRET_KEY=your_clerk_secret_key
 ```
 
-Now, you can a fully working authentication system with Next.js: Sign up, Sign in, Sign out, Forgot password, Reset password, Update profile, Update password, Update email, Delete account, and more.
+Now, you have a fully working authentication system with Next.js: Sign up, Sign in, Sign out, Forgot password, Reset password, Update profile, Update password, Update email, Delete account, and more.
 
 ### Set up remote database
 
 The project uses DrizzleORM, a type-safe ORM compatible with SQLite, PostgreSQL, and MySQL databases. By default, the project is set up to work seamlessly with libSQL, and for production purposes, it's integrated with [Turso](https://turso.tech/?utm_source=nextjsstarterbp). The SaaS Boilerplate also enables a smooth transition to an alternative database provider if your project requires it.
 
 First, you need to create a Turso account at [Turso.tech](https://turso.tech/?utm_source=nextjsstarterbp) and install the Turso CLI:
+Read TURSO documentation for installing the Turso CLI: https://docs.turso.tech/cli/installation. WSL is needed to install the CLI.
+
+Install WSL command
+
+```shell
+wsl --install
+```
 
 ```shell
 brew install tursodatabase/tap/turso
