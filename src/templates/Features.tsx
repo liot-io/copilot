@@ -31,7 +31,7 @@ const Features = () => {
             }
             title={t('feature1_title')}
           >
-            {t('feature_description')}
+            {t('feature_description1')}
           </FeatureCard>
 
           <FeatureCard
@@ -50,7 +50,7 @@ const Features = () => {
             }
             title={t('feature2_title')}
           >
-            {t('feature_description')}
+            {t('feature_description2')}
           </FeatureCard>
 
           <FeatureCard
@@ -69,7 +69,7 @@ const Features = () => {
             }
             title={t('feature3_title')}
           >
-            {t('feature_description')}
+            {t('feature_description3')}
           </FeatureCard>
 
           <FeatureCard
@@ -88,7 +88,7 @@ const Features = () => {
             }
             title={t('feature4_title')}
           >
-            {t('feature_description')}
+            {t('feature_description4')}
           </FeatureCard>
 
           <FeatureCard
@@ -107,7 +107,7 @@ const Features = () => {
             }
             title={t('feature5_title')}
           >
-            {t('feature_description')}
+            {t('feature_description5')}
           </FeatureCard>
 
           <FeatureCard
@@ -126,7 +126,7 @@ const Features = () => {
             }
             title={t('feature6_title')}
           >
-            {t('feature_description')}
+            {t('feature_description6')}
           </FeatureCard>
         </div>
       </Section>

@@ -21,10 +21,10 @@ const Navbar = () => {
               <LocaleSwitcher />
             </li>
             <li>
-              <Link href="/sign-in">{t('sign_in')}</Link>
+              <Link href="sign-in">{t('sign_in')}</Link>
             </li>
             <li>
-              <Link className={buttonVariants()} href="/sign-up">
+              <Link className={buttonVariants()} href="sign-up">
                 {t('sign_up')}
               </Link>
             </li>

@@ -1,8 +1,8 @@
-#
+# DOCS = https://developer.crowdin.com/configuration-file/
 # Your Crowdin credentials
 #
-"project_id_env": "CROWDIN_PROJECT_ID"
-"api_token_env": "CROWDIN_PERSONAL_TOKEN"
+"project_id_env": "681310"
+"api_token_env": "083e3e96a96573b16f16e6d799bfe9c98aef453957550ad76912fa52e477fd19b7c0fcd8dd9da18e"
 "base_path": "."
 "base_url": "https://api.crowdin.com"
 

@@ -16,7 +16,7 @@ const CTA = () => {
         buttons={
           <a
             className={buttonVariants({ variant: 'outline', size: 'lg' })}
-            href="https://github.com/ixartz/SaaS-Boilerplate"
+            href="https://github.com/liot-io/copilot"
           >
             <GitHubLogoIcon className="mr-2 size-5" />
             {t('button_text')}

@@ -30,9 +30,9 @@ const CenteredFooter = (props: {
             author: () => (
               <Link
                 className="text-blue-500 hover:text-blue-600"
-                href="https://creativedesignsguru.com"
+                href="http://localhost:3000/"
               >
-                Creative Designs Guru
+                Steffen Adrup Benne
               </Link>
             ),
           })}

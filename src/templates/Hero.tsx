@@ -1,4 +1,8 @@
-import { GitHubLogoIcon, TwitterLogoIcon } from '@radix-ui/react-icons';
+import {
+  LockOpen1Icon,
+  PlayIcon,
+  TwitterLogoIcon,
+} from '@radix-ui/react-icons';
 import { useTranslations } from 'next-intl';
 
 import { buttonVariants } from '@/components/ui/button';
@@ -12,7 +16,7 @@ const Hero = () => {
     <Section className="py-48 pb-72">
       <CenteredHero
         banner={{
-          href: 'https://twitter.com/ixartz',
+          href: 'https://github.com/liot-io/copilot',
           text: (
             <>
               <TwitterLogoIcon className="mr-1 size-5" /> {t('follow_twitter')}
@@ -29,18 +33,16 @@ const Hero = () => {
         description={t('description')}
         buttons={
           <>
-            <a
-              className={buttonVariants({ size: 'lg' })}
-              href="https://github.com/ixartz/SaaS-Boilerplate"
-            >
+            <a className={buttonVariants({ size: 'lg' })} href="sign-up">
+              <PlayIcon className="mr-2 size-5" />
               {t('primary_button')}
             </a>
 
             <a
               className={buttonVariants({ variant: 'outline', size: 'lg' })}
-              href="https://github.com/ixartz/SaaS-Boilerplate"
+              href="sign-in"
             >
-              <GitHubLogoIcon className="mr-2 size-5" />
+              <LockOpen1Icon className="mr-2 size-5" />
               {t('secondary_button')}
             </a>
           </>

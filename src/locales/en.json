@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Copilot-io - the perfect AI companion",
+    "meta_description": "Do everything faster - and better with AI solutions."
   },
   "Navbar": {
     "sign_in": "Sign In",
@@ -13,31 +13,36 @@
     "company": "Company"
   },
   "Hero": {
-    "follow_twitter": "Follow @Ixartz on Twitter",
-    "title": "The perfect <important>SaaS template</important> to build and scale your business with ease.",
-    "description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
-    "primary_button": "Get Started",
-    "secondary_button": "Star on GitHub"
+    "follow_twitter": "Follow @Liot-io on Github",
+    "title": "The perfect <important>Copilot</important> to build and scale your business with ease.",
+    "description": "A SaaS AI Copilot for companies, perfect for introducing compliant AI features to your Company",
+    "primary_button": "Sign up",
+    "secondary_button": "Sign in"
   },
   "Sponsors": {
     "title": "Sponsored by"
   },
   "Features": {
     "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
-    "feature1_title": "Next.js",
-    "feature2_title": "React",
-    "feature3_title": "Tailwind CSS",
-    "feature4_title": "TypeScript",
-    "feature5_title": "Shadcn UI",
-    "feature6_title": "ESLint",
-    "feature_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+    "section_title": "Unlock the Full Potential of AI companions - with Copilot-io",
+    "section_description": "The perfect application for compliant AI solutions",
+    "feature1_title": "First Feature",
+    "feature2_title": "Second Feature",
+    "feature3_title": "Third Feature",
+    "feature4_title": "Fourth Feature",
+    "feature5_title": "Fifth Feature",
+    "feature6_title": "sixt Feature",
+    "feature_description1": "Something about the amazing Machine Learning and AI features incorporated in this application",
+    "feature_description2": "Something about the amazing Machine Learning and AI features incorporated in this application",
+    "feature_description3": "Something about the amazing Machine Learning and AI features incorporated in this application",
+    "feature_description4": "Something about the amazing Machine Learning and AI features incorporated in this application",
+    "feature_description5": "Something about the amazing Machine Learning and AI features incorporated in this application",
+    "feature_description6": "Something about the amazing Machine Learning and AI features incorporated in this application"
   },
   "Pricing": {
-    "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_subtitle": "Pricing",
+    "section_title": "Unlock the Full Potential of compliant AI features",
+    "section_description": "More for less - with european compliant AI ",
     "button_text": "Get Started"
   },
   "PricingPlan": {
@@ -112,55 +117,57 @@
     "title_bar_description": "Manage your organization"
   },
   "Billing": {
-    "title_bar": "Billing",
-    "title_bar_description": "Manage your billing and subscription",
-    "current_section_title": "Current Plan",
-    "current_section_description": "Adjust your payment plan to best suit your requirements",
-    "manage_subscription_button": "Manage Subscription"
+    "title_bar": "Fakturering",
+    "title_bar_description": "Administrer din fakturering og abonnement",
+    "current_section_title": "Nuværende plan",
+    "current_section_description": "Juster din betalingsplan, så den passer bedst til dine behov",
+    "manage_subscription_button": "Administrer abonnement"
   },
   "BillingOptions": {
-    "current_plan": "Current Plan",
-    "upgrade_plan": "Get Started"
+    "current_plan": "Nuværende plan",
+    "upgrade_plan": "Kom godt i gang"
   },
   "CurrentPlanDetails": {
-    "next_renew_date": "Your subscription renews on {date}"
+    "next_renew_date": "Dit abonnement fornyes den {date}"
   },
   "CheckoutConfirmation": {
-    "title_bar": "Payment Confirmation",
-    "message_state_title": "Payment successful",
-    "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
-    "message_state_button": "Go back to Billing"
+    "title_bar": "Betalingsbekræftelse",
+    "message_state_title": "Betalingen lykkedes",
+    "message_state_description": "Din betaling er blevet behandlet. Tak for dit køb!",
+    "message_state_button": "Gå tilbage til Fakturering"
   },
   "DataTable": {
-    "no_results": "No results."
+    "no_results": "Ingen resultater."
   },
   "Todos": {
     "title_bar": "Todo List",
-    "title_bar_description": "View and manage your todo list",
-    "add_todo_button": "New todo"
+    "title_bar_description": "Se og administrer din todo-liste",
+    "add_todo_button": "Ny opgave"
   },
   "TodoTableColumns": {
-    "open_menu": "Open menu",
-    "edit": "Edit",
-    "delete": "Delete",
-    "title_header": "Title",
-    "message_header": "Message"
+    "open_menu": "Åbn menu",
+    "edit": "Rediger",
+    "delete": "Slet",
+    "title_header": "Titel",
+    "message_header": "Besked"
   },
   "AddTodo": {
-    "title_bar": "Add Todo",
-    "add_todo_section_title": "Create a new todo",
-    "add_todo_section_description": "Fill in the form below to create a new todo"
+    "title_bar": "Tilføj opgave",
+    "add_todo_section_title": "Opret en ny opgave",
+    "add_todo_section_description": "Udfyld formularen nedenfor for at oprette en ny opgave"
   },
   "EditTodo": {
-    "title_bar": "Edit todo",
-    "edit_todo_section_title": "Modify todo",
-    "edit_todo_section_description": "Fill in the form below to edit the todo"
+    "title_bar": "Rediger opgave",
+    "edit_todo_section_title": "Rediger opgave",
+    "edit_todo_section_description": "Udfyld formularen nedenfor for at redigere opgaven"
   },
   "TodoForm": {
-    "title_label": "Title",
-    "title_description": "Enter a descriptive title for your todo.",
-    "message_title": "Message",
-    "message_description": "Enter a detailed message for your todo.",
-    "submit_button": "Submit"
-  }
+    "title_label": "Titel",
+    "title_description": "Indtast en beskrivende titel for din opgave.",
+    "message_title": "Besked",
+    "message_description": "Indtast en detaljeret besked til din opgave.",
+    "submit_button": "Send"
+  },
+  "meta_title": "Copilot-io - den perfekte AI-ledsager til virksomheder",
+  "meta_description": "Gør alting hurtigere - og bedre med AI"
 }
