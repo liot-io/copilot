@@ -31,7 +31,7 @@
     "feature3_title": "Third Feature",
     "feature4_title": "Fourth Feature",
     "feature5_title": "Fifth Feature",
-    "feature6_title": "sixt Feature",
+    "feature6_title": "Sixth Feature",
     "feature_description1": "Something about the amazing Machine Learning and AI features incorporated in this application",
     "feature_description2": "Something about the amazing Machine Learning and AI features incorporated in this application",
     "feature_description3": "Something about the amazing Machine Learning and AI features incorporated in this application",
@@ -98,8 +98,8 @@
     "settings": "Settings"
   },
   "Dashboard": {
-    "meta_title": "SaaS Template Dashboard",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Copilot-io - the perfect AI companion",
+    "meta_description": "Do everything faster - and better with AI solutions."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",

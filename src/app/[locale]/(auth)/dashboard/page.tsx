@@ -58,7 +58,7 @@ const DashboardIndexPage = () => {
           >
             <a
               className={buttonVariants({ size: 'lg' })}
-              href="https://github.com/ixartz/SaaS-Boilerplate"
+              href="https://github.com/liot-io/copilot"
             >
               {t('message_state_button')}
             </a>
