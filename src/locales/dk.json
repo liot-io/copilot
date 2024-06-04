@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "Copilot-io - den perfekte AI-ledsager",
-    "meta_description": "Gør alting hurtigere - og bedre med AI-løsninger."
+    "meta_title": "Liot.io - den perfekte AI-ledsager",
+    "meta_description": "Gør alting hurtigere - og bedre med AI-companion løsninger."
   },
   "Navbar": {
     "sign_in": "Log ind",
@@ -24,17 +24,17 @@
   },
   "Features": {
     "section_subtitle": "Funktioner",
-    "section_title": "Lås op for det fulde potentiale af AI-ledsagere - med Copilot-io",
+    "section_title": "Lås op for dit fulde potentiale med AI-companions",
     "section_description": "Den perfekte applikation til kompatible AI-løsninger",
-    "feature1_title": "Første funktion",
-    "feature2_title": "Anden funktion",
-    "feature3_title": "Tredje funktion",
+    "feature1_title": "Generering af Leads",
+    "feature2_title": "Marketing Assistent",
+    "feature3_title": "Juridisk Assistent",
     "feature4_title": "Fjerde funktion",
     "feature5_title": "Femte funktion",
     "feature6_title": "Sjette Feature",
-    "feature_description1": "Noget om de fantastiske Machine Learning og AI-funktioner, der er inkorporeret i denne applikation",
-    "feature_description2": "Noget om de fantastiske Machine Learning og AI-funktioner, der er inkorporeret i denne applikation",
-    "feature_description3": "Noget om de fantastiske Machine Learning og AI-funktioner, der er inkorporeret i denne applikation",
+    "feature_description1": "Lead-genererende AI-assistent, søger efter relevante leads i din branche og hjælper med det opsøgende salg.",
+    "feature_description2": "Kreativ marketing-assistent giver direkte input og forslag til kampagner, tone-of-voice og tekster til SoMe.",
+    "feature_description3": "Juridisk AI-assistent uddannet i dine specifikke brancher giver sparring til det juridiske og dine kontrakter.",
     "feature_description4": "Noget om de fantastiske Machine Learning og AI-funktioner, der er inkorporeret i denne applikation",
     "feature_description5": "Noget om de fantastiske Machine Learning og AI-funktioner, der er inkorporeret i denne applikation",
     "feature_description6": "Noget om de fantastiske Machine Learning og AI-funktioner, der er inkorporeret i denne applikation"
@@ -42,16 +42,16 @@
   "Pricing": {
     "section_subtitle": "Pris",
     "section_title": "Lås op for det fulde potentiale af kompatible AI-funktioner",
-    "section_description": "Mere for mindre - med europæisk kompatibel AI",
+    "section_description": "Mere for mindre - med en europæisk kompatibel AI",
     "button_text": "Kom godt i gang"
   },
   "PricingPlan": {
     "free_plan_name": "Gratis",
     "premium_plan_name": "Premium",
     "enterprise_plan_name": "Enterprise",
-    "free_plan_description": "For enkeltpersoner",
-    "premium_plan_description": "For små teams",
-    "enterprise_plan_description": "Til brancheledere",
+    "free_plan_description": "Til enkeltpersoner",
+    "premium_plan_description": "Til teams",
+    "enterprise_plan_description": "Til markedsledere",
     "feature_team_member": "{number} Teammedlemmer",
     "feature_website": "{number} websteder",
     "feature_storage": "{number} GB lagerplads",
@@ -67,7 +67,7 @@
   "CTA": {
     "title": "Er du klar?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "button_text": "Stjerner på GitHub"
+    "button_text": "Følg på GitHub"
   },
   "Footer": {
     "product": "Produkt",
@@ -98,8 +98,8 @@
     "settings": "Indstillinger"
   },
   "Dashboard": {
-    "meta_title": "Copilot-io - den perfekte AI-ledsager",
-    "meta_description": "Gør alting hurtigere - og bedre med AI-løsninger."
+    "meta_title": "Liot.io - den perfekte AI-ledsager",
+    "meta_description": "Gør alting hurtigere - og bedre med AI-companion løsninger."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",
@@ -117,55 +117,57 @@
     "title_bar_description": "Administrer din organisation"
   },
   "Billing": {
-    "title_bar": "Facturation",
-    "title_bar_description": "Gérer votre facturation et votre abonnement",
-    "current_section_title": "Plan actuel",
-    "current_section_description": "Ajuster votre plan de paiement pour le mieux répondre à vos besoins",
-    "manage_subscription_button": "Gérer l'abonnement"
+    "title_bar": "Fakturering",
+    "title_bar_description": "Administrer din fakturering og abonnement",
+    "current_section_title": "Nuværende plan",
+    "current_section_description": "Juster din betalingsplan, så den passer bedst til dine behov",
+    "manage_subscription_button": "Administrer abonnement"
   },
   "BillingOptions": {
-    "current_plan": "Plan actuel",
-    "upgrade_plan": "Démarrer"
+    "current_plan": "Nuværende plan",
+    "upgrade_plan": "Kom godt i gang"
   },
   "CurrentPlanDetails": {
-    "next_renew_date": "Votre abonnement sera renouvelé le {date}"
+    "next_renew_date": "Dit abonnement fornyes den {date}"
   },
   "CheckoutConfirmation": {
-    "title_bar": "Confirmation du paiement",
-    "message_state_title": "Paiement accepté",
-    "message_state_description": "Votre paiement a été traité avec succès. Merci pour votre achat !",
-    "message_state_button": "Revenir à la facturation"
+    "title_bar": "Betalingsbekræftelse",
+    "message_state_title": "Betalingen lykkedes",
+    "message_state_description": "Din betaling er blevet behandlet. Tak for dit køb!",
+    "message_state_button": "Gå tilbage til Fakturering"
   },
-  "DataTable": {
-    "no_results": "Aucun résultat."
+  "Datatabel": {
+    "no_results": "Ingen resultater."
   },
   "Todos": {
-    "title_bar": "Liste de Todos",
-    "title_bar_description": "Afficher et gérer votre liste de todos",
-    "add_todo_button": "Nouveau todo"
+    "title_bar": "Todo List",
+    "title_bar_description": "Se og administrer din todo-liste",
+    "add_todo_button": "Ny opgave"
   },
   "TodoTableColumns": {
-    "open_menu": "Ouvrir le menu",
-    "edit": "Modifier",
-    "delete": "Supprimer",
-    "title_header": "Titre",
-    "message_header": "Message"
+    "open_menu": "Åbn menu",
+    "edit": "Rediger",
+    "delete": "Slet",
+    "title_header": "Titel",
+    "message_header": "Besked"
   },
   "AddTodo": {
-    "title_bar": "Ajouter une todo",
-    "add_todo_section_title": "Créer une nouvelle todo",
-    "add_todo_section_description": "Remplissez le formulaire ci-dessous pour créer une nouvelle todo"
+    "title_bar": "Tilføj opgave",
+    "add_todo_section_title": "Opret en ny opgave",
+    "add_todo_section_description": "Udfyld formularen nedenfor for at oprette en ny opgave"
   },
   "EditTodo": {
-    "title_bar": "Editer le todo",
-    "edit_todo_section_title": "Modifier le todo",
-    "edit_todo_section_description": "Remplissez le formulaire ci-dessous pour modifier la todo"
+    "title_bar": "Rediger opgave",
+    "edit_todo_section_title": "Rediger opgave",
+    "edit_todo_section_description": "Udfyld formularen nedenfor for at redigere opgaven"
   },
   "TodoForm": {
-    "title_label": "Titre",
-    "title_description": "Entrez un titre descriptif pour votre todo.",
-    "message_title": "Message",
-    "message_description": "Entrez un message détaillé pour votre todo.",
-    "submit_button": "Envoyer"
-  }
+    "title_label": "Titel",
+    "title_description": "Indtast en beskrivende titel for din opgave.",
+    "message_title": "Besked",
+    "message_description": "Indtast en detaljeret besked til din opgave.",
+    "submit_button": "Send"
+  },
+  "meta_title": "Liot.io - den perfekte AI-ledsager",
+  "meta_description": "Gør alting hurtigere - og bedre med AI-companion løsninger."
 }

@@ -1,5 +1,5 @@
 {
-  "name": "liot-io",
+  "name": "liot.io",
   "version": "1.0.0",
   "scripts": {
     "dev:spotlight": "spotlight-sidecar",

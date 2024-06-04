@@ -6,7 +6,7 @@ const localePrefix: LocalePrefix = 'as-needed';
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
-  name: 'Copilot-io',
+  name: 'Liot.io',
   locales: [
     {
       id: 'en',
@@ -42,7 +42,7 @@ export const PricingPlanList: Array<PricingPlan> = [
   },
   {
     id: PLAN_ID.PREMIUM,
-    price: 79,
+    price: 49,
     interval: BILLING_INTERVAL.MONTH,
     devPriceId: '',
     prodPriceId: '',
@@ -55,7 +55,7 @@ export const PricingPlanList: Array<PricingPlan> = [
   },
   {
     id: PLAN_ID.ENTERPRISE,
-    price: 199,
+    price: 149,
     interval: BILLING_INTERVAL.MONTH,
     devPriceId: '',
     prodPriceId: '',

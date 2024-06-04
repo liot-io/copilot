@@ -9,8 +9,8 @@ const emailChannel = new EmailAlertChannel('email-channel-1', {
 });
 
 export const config = defineConfig({
-  projectName: 'copilot-io',
-  logicalId: 'copilot-io_saas',
+  projectName: 'liot.io',
+  logicalId: 'liot.io_1.0.0',
   repoUrl: 'https://github.com/liot-io/copilot',
   checks: {
     locations: ['us-east-1', 'eu-west-1'],
