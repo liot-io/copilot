@@ -119,13 +119,6 @@ CLERK_SECRET_KEY=your_clerk_secret_key
 
 Now, you have a fully working authentication system with Next.js: Sign up, Sign in, Sign out, Forgot password, Reset password, Update profile, Update password, Update email, Delete account, and more.
 
-### Set up remote database
-
-The project uses DrizzleORM, a type-safe ORM compatible with SQLite, PostgreSQL, and MySQL databases. By default, the project is set up to work seamlessly with libSQL, and for production purposes, it's integrated with [Turso](https://turso.tech/?utm_source=nextjsstarterbp). The SaaS Boilerplate also enables a smooth transition to an alternative database provider if your project requires it.
-
-First, you need to create a Turso account at [Turso.tech](https://turso.tech/?utm_source=nextjsstarterbp) and install the Turso CLI:
-
-Read TURSO documentation for installing the Turso CLI: https://docs.turso.tech/cli/installation. WSL is needed to install the CLI.
 
 Before installing WSL on windows follow this guide: https://learn.microsoft.com/en-us/windows/wsl/install-manual
 
@@ -150,6 +143,16 @@ If the default Linux distribution "Ubuntu" is okay, you can type the following i
 ```shell
 wsl --install
 ```
+
+### Set up remote database
+
+The project uses DrizzleORM, a type-safe ORM compatible with SQLite, PostgreSQL, and MySQL databases. By default, the project is set up to work seamlessly with libSQL, and for production purposes, it's integrated with [Turso](https://turso.tech/?utm_source=nextjsstarterbp). The SaaS Boilerplate also enables a smooth transition to an alternative database provider if your project requires it.
+
+First, you need to create a Turso account at [Turso.tech](https://turso.tech/?utm_source=nextjsstarterbp) and install the Turso CLI:
+
+Read TURSO documentation for installing the Turso CLI: https://docs.turso.tech/cli/installation. WSL is needed to install the CLI.
+
+
 ```shell
 brew install tursodatabase/tap/turso
 turso auth signup # Sign up to Turso
