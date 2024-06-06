@@ -129,12 +129,27 @@ Read TURSO documentation for installing the Turso CLI: https://docs.turso.tech/c
 
 Before installing WSL on windows follow this guide: https://learn.microsoft.com/en-us/windows/wsl/install-manual
 
-Install WSL command
+### [Windows] Install Windows Subsystem for Linux (WSL)
+Next we need to install a Linux system on Windows with WSL
+
+It is a feature of Windows that allows you to run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting. WSL is designed to provide a seamless and productive experience for developers who want to use both Windows and Linux at the same time.
+
+DOCS: https://learn.microsoft.com/en-us/windows/wsl/about
+
+Before installing WSL on windows follow this guide: https://learn.microsoft.com/en-us/windows/wsl/install-manual
+
+When installation on windows is complete run the following command in the Terminal, to get a list of the differrent Linux system to choose from:
+
+```shell
+wsl -l -o
+```
+
+Choose a Linux system from the an type  wsl --install <distribution-name> [eks: wsl --install Debian]
+If the default Linux distribution "Ubuntu" is okay, you can type the following in the Terminal:
 
 ```shell
 wsl --install
 ```
-
 ```shell
 brew install tursodatabase/tap/turso
 turso auth signup # Sign up to Turso
